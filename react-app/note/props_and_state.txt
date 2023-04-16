@@ -1,0 +1,11 @@
+PROPS 
+是传递给组件的输入或参数 input passed to a component
+类似于函数参数  similar to function args
+不可变得 immutable  只读
+只要改变react渲染组件更新dom cause a re-render
+
+STATE
+组件管理的内部数据，可以随时变化  data managed by a component
+类似于局部变量像内部变量    similar to local variables
+可变                    mutable
+只要改变react渲染组件更新dom cause a re-render
