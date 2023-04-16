@@ -7,5 +7,5 @@ PROPS
 STATE
 组件管理的内部数据，可以随时变化  data managed by a component
 类似于局部变量像内部变量    similar to local variables
-可变                    mutable
-只要改变react渲染组件更新dom cause a re-render
+可变                        mutable
+只要改变react渲染组件更新dom    cause a re-render
